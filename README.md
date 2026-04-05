@@ -46,3 +46,13 @@ So the point becomes (cosθ, sinθ).
 - Quadrant II → sin +, cos -, tan -  
 - Quadrant III → sin -, cos -, tan +  
 - Quadrant IV → sin -, cos +, tan -  
+
+## My Understanding
+
+Earlier, I used to memorize trigonometric values.
+
+But now I understand that:
+- cosθ represents horizontal movement
+- sinθ represents vertical movement
+
+So the values are not random—they come from geometry and position on the unit circle.
