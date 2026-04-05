@@ -21,3 +21,11 @@ From the geometry:
 - y = sinθ
 
 So the point becomes (cosθ, sinθ).
+
+## Key Angles and Coordinates
+
+- 0° → (1, 0)  
+- 90° → (0, 1)  
+- 180° → (-1, 0)  
+- 270° → (0, -1)  
+- 360° → (1, 0)
