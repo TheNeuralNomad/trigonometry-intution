@@ -1,4 +1,4 @@
-# Trigonometry InWhile learning trigonometry, I realized that memorizing values is not effective.tuition: Unit Circle & Quadrants
+# Trigonometry: Unit Circle & Quadrants
 Understanding trigonometric ratios at key angles using the unit circle, focusing on intuition rather than memorization 
 
 ## Why I Made This
