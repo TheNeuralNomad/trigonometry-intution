@@ -14,10 +14,6 @@ This project is my attempt to understand and explain trigonometric ratios using 
 trigonometry-intuition  
 Understanding trigonometric ratios...  
 
-## Unit Circle Visualization
-
-![Unit Circle](unit-circle.jpg)
-
 ## Why (cosθ, sinθ)?
 
 Any point on the unit circle can be written as (x, y).
