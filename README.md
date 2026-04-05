@@ -1,18 +1,15 @@
 # Trigonometry: Unit Circle & Quadrants
 Understanding trigonometric ratios at key angles using the unit circle, focusing on intuition rather than memorization 
 
+## Unit Circle Visualization
+
+![Unit Circle](unit-circle.jpg) 
+
 ## Why I Made This
 
 While learning trigonometry, I realized that memorizing values is not effective.
 
 This project is my attempt to understand and explain trigonometric ratios using geometry and intuition.
-
-## Unit Circle Visualization
-
-![Unit Circle](unit-circle.jpg)
-
-trigonometry-intuition  
-Understanding trigonometric ratios...  
 
 ## Why (cosθ, sinθ)?
 
@@ -58,3 +55,9 @@ But now I understand that:
 - sinθ represents vertical movement
 
 So the values are not random—they come from geometry and position on the unit circle.
+
+## Future Improvements
+
+- Add diagrams for 30°, 45°, 60°
+- Add more intuitive explanations
+- Extend to more trigonometric concepts
