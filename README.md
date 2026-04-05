@@ -1,15 +1,15 @@
 # Trigonometry: Unit Circle & Quadrants
 Understanding trigonometric ratios at key angles using the unit circle, focusing on intuition rather than memorization 
 
-## Unit Circle Visualization
-
-![Unit Circle](unit-circle.jpg) 
-
 ## Why I Made This
 
 While learning trigonometry, I realized that memorizing values is not effective.
 
 This project is my attempt to understand and explain trigonometric ratios using geometry and intuition.
+
+## Unit Circle Visualization
+
+![Unit Circle](unit-circle.jpg) 
 
 ## Why (cosθ, sinθ)?
 
